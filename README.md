@@ -2,6 +2,12 @@
 
 对基于 Spring Boot + MySQL + WebSocket 的网页聊天系统（注册 / 登录 / 搜索用户 / 好友申请 / 创建会话 / 实时收发消息）进行完整测试，覆盖**功能、接口、UI、性能**四个层面，手工与自动化结合。
 
+## 📊 在线报告
+
+- [接口自动化报告（Allure）](https://wangfei-11.github.io/chatroom-test/allure-report/)
+- [UI 自动化报告（Surefire）](https://wangfei-11.github.io/chatroom-test/ui-report/surefire-report.html)
+- [测试总结报告](docs/测试总结报告.md)
+
 ## 测试体系
 
 | 层面 | 方式 | 技术栈 | 用例数 | 结果 |
