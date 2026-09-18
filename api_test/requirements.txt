@@ -1,0 +1,5 @@
+pytest>=8.0
+requests>=2.31
+websocket-client>=1.7
+pymysql>=1.1
+allure-pytest>=2.13
